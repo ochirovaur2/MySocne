@@ -1,0 +1,7 @@
+#toggleLogin{
+  cursor: pointer;
+}
+
+#loginAlert{
+  display: none;
+}
